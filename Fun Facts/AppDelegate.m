@@ -43,3 +43,6 @@
 }
 
 @end
+
+NSString *bestSmartphone = @"iPhone";
+
